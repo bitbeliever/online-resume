@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-title: Online Resume
+title: 在线简历
 url:
 baseurl:
 
@@ -9,9 +9,9 @@ sass:
   style:    compressed
 
 # Custom
-lang: en
-open: true                  # show or hide your resume
-allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
+lang: zh-CN
+open: false                  # show or hide your resume
+allow_search_engines: false  # allow your resume indexing by search engine, 'true' or 'false'
 analytics:
   google:                   # google analytics
   cloudflare:               # cloudflare analytics

@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: 黄正智                      # name
+  title: Golang高级工程师, 全栈工程师           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: 
+  email: tsmwymsmdyts@gmail.com    # email address
+  phone: 18113191685 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -19,7 +19,7 @@ contact:
   drivinglicense:          # driving licence
 
   # contact
-  wechat:                  # username
+  wechat:  18113191685                # username
   whatsapp:                # 8611122223333     | https://wa.me/8611122223333
   telegram:                # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: bitbeliever                 # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
