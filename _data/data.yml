@@ -84,15 +84,15 @@ profile:
   title: 简介
   description: |
     四年Golang工程师, 三年全栈工程师. DevOps工程师
-    + 编程语言: Golang, Javascript, 熟悉Golang内置库, Golang并发编程
-    + 技术栈: gRPC, gRPC-Gateway, protobuf, Gin等Go语言生态
-    + 前端相关: Vue, React, TypeScript, SSR等常见前端技术
-    + 数据库相关: 熟悉MySQL, Redis, MongoDB等常见数据库及持久化方案
-    + 容器与虚拟化技术: 熟悉Docker, 了解Kubernetes, 了解DevOps流程与控制, 了解Serverless架构
-    + 版本管理、自动化部署工具: Git/GitOps 等自动化运维, Drone CICD
-    + 熟悉 Linux 系统及其常见命令
-    + 熟悉HTTP, WebSocket, TCP/IP等网络协议
-    + 了解分布式系统与微服务架构
+    - 编程语言: Golang, Javascript, 熟悉Golang内置库, Golang并发编程
+    - 技术栈: gRPC, gRPC-Gateway, protobuf, Gin等Go语言生态
+    - 前端相关: Vue, React, TypeScript, SSR等常见前端技术
+    - 数据库相关: 熟悉MySQL, Redis, MongoDB等常见数据库及持久化方案
+    - 容器与虚拟化技术: 熟悉Docker, 了解Kubernetes, 了解DevOps流程与控制, 了解Serverless架构
+    - 版本管理、自动化部署工具: Git/GitOps 等自动化运维, Drone CICD
+    - 熟悉 Linux 系统及其常见命令
+    - 熟悉HTTP, WebSocket, TCP/IP等网络协议
+    - 了解分布式系统与微服务架构
 
 experience:
   show: true
@@ -102,51 +102,51 @@ experience:
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    + company: 深圳德科信息
+    - company: 深圳德科信息
       # link: '#'
       # tags: Full-time
-      date: 2022 + 2023
+      date: 2022 - 2023
       role: Golang工程师
       location: 成都
       description: |
         Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        - First
+        - Second
 
-    + company: 成都沃曼网络科技有限公司
+    - company: 成都沃曼网络科技有限公司
       # link:
       # tags: Part-time, remote
-      date: 2019 + 2022
+      date: 2019 - 2022
       role: Golang工程师, 全栈工程师
       location: 成都
       description: |
         Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        - First
+        - Second
 
-    + company: 四川成享受软件有限公司 
+    - company: 四川成享受软件有限公司 
       # link:
       tags: Part-time, remote
-      date: 2017.03 + 2018.03
+      date: 2017.03 - 2018.03
       role: Java工程师
       location: 成都
       description: |
         Your key responsibilities and achievements in the company.
-        + First
-        + Secon
+        - First
+        - Secon
 
-    + company: 宁波攒油宝网络科技公司
+    - company: 宁波攒油宝网络科技公司
       # link:
       tags: 实习
-      date: 2016.03 + 2017.03
+      date: 2016.03 - 2017.03
       role: React前端工程师, Java工程师
       location: 宁波
       description: |
         "攒油宝"app和微信工作号
 
         afafafaf
-        + First
-        + Secon  
+        - First
+        - Secon  
         
     
 
@@ -162,23 +162,23 @@ project:
     The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    + name: Personal project
+    - name: Personal project
       link: '#'
       tags:
-      date: 2015 + 2017
+      date: 2015 - 2017
       description: |
         Personal project description...
-        + First
-        + Second
+        - First
+        - Second
 
-    + name: OSS project
+    - name: OSS project
       link:
       tags: committer
       date:
       description: |
         OSS project description...
-        + First
-        + Second
+        - First
+        - Second
 
 skill:
   show: true
@@ -191,25 +191,25 @@ skill:
   #   There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    + name: Golang
+    - name: Golang
       level: 5
-    + name: JavaScript & Nodejs
+    - name: JavaScript & Nodejs
       level: 4
-    + name: Python
+    - name: Python
       level: 3
-    + name: Vuejs
+    - name: Vuejs
       level: 4
-    + name: Reactjs
+    - name: Reactjs
       level: 3
-    + name: Mysql
+    - name: Mysql
       level: 4
-    + name: MongoDB
+    - name: MongoDB
       level: 3
-    + name: Redis
+    - name: Redis
       level: 4
-    + name: Docker
+    - name: Docker
       level: 4
-    + name: Linux
+    - name: Linux
       level: 4
 
 education:
@@ -221,26 +221,26 @@ education:
     # In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    + institution: 本科
+    - institution: 本科
       # link: '#'
-      date: 2013 + 2017
+      date: 2013 - 2017
       major: 电子信息工程
       # degree: Master
       degree: 学士
       # description: |
       #   Additional information for this institution.
-      #   + First
-      #   + Second
+      #   - First
+      #   - Second
 
-    # + institution: Example University
+    # - institution: Example University
     #   link:
-    #   date: 2011 + 2015
+    #   date: 2011 - 2015
     #   major: Computer Science
     #   degree: Bachelor
     #   description: |
     #     Additional information for this institution.
-    #     + First
-    #     + Second
+    #     - First
+    #     - Second
 
 certificate:
   show: false
@@ -256,13 +256,13 @@ certificate:
     The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
 
   items:
-    + name: Example Certificate One
+    - name: Example Certificate One
       issuer: by Example
       date: 2020
       link: '#'
       description: |
         It's my Example Certificate One by Example.
-    + name: Example Certificate Two
+    - name: Example Certificate Two
       issuer: by Example
       date: 2020
       link:
@@ -283,11 +283,11 @@ publication:
     Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
-    + title: Example Publication in Action
+    - title: Example Publication in Action
       authors: Foo Bar
       conference: Foobar, 2019
       link: '#'
-    + title: The Art of Example Publication
+    - title: The Art of Example Publication
       authors: Foo Bar
       conference: Foobar, 2019
       link:
@@ -302,13 +302,13 @@ award:
     # By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
 
   items:
-    + name: 蓝桥杯全国软件和信息技术大赛c/c++组
+    - name: 蓝桥杯全国软件和信息技术大赛c/c++组
       # awarder: by Example
       date: 2016
       # link: '#'
       description: |
         四川省一等奖
-    + name: 蓝桥杯全国软件和信息技术大赛c/c++组
+    - name: 蓝桥杯全国软件和信息技术大赛c/c++组
       # awarder: by Example
       date: 2016
       # link:
@@ -328,16 +328,16 @@ award:
 
 #     Template for a pending patent:
 
-#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+#     - [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
 
 #     Template for an approved patent:
 
-#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+#     - [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
 
 #     The following are some examples of patent formats.
 
-#     + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-#     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+#     - Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+#     - Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 # organization:
 #   show: true
@@ -360,9 +360,9 @@ award:
 #     It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
 
 #   items:
-#     + idiom: Chinese
+#     - idiom: Chinese
 #       level: Native
-#     + idiom: English
+#     - idiom: English
 #       level: Professional
 
 # interest:
@@ -377,9 +377,9 @@ award:
 #     However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
 
 #   items:
-#     + item: Reading
+#     - item: Reading
 #       link: '#'
-#     + item: Cooking
+#     - item: Cooking
 #       link:
 
 # evaluation:
@@ -407,7 +407,7 @@ award:
 #     It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
 
 #   items:
-#     + name: Foo One
+#     - name: Foo One
 #       link: '#'
 #       title: Backend Developer
 #       institution: Second Company
@@ -417,7 +417,7 @@ award:
 #       description: |
 #         Foo One was my colleague in Second Company.
 
-#     + name: Bar Two
+#     - name: Bar Two
 #       link:
 #       title: Professor
 #       institution: Example University
