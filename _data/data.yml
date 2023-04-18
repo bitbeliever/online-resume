@@ -113,36 +113,38 @@ experience:
         + First
         + Second
 
-    + company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 + 2018.03
-      role: Backend Developer
+    + company: 成都沃曼网络科技有限公司
+      # link:
+      # tags: Part-time, remote
+      date: 2019 + 2022
+      role: Golang工程师, 全栈工程师
       location: 成都
       description: |
         Your key responsibilities and achievements in the company.
         + First
         + Second
 
-    + company: First Company
-      link:
+    + company: 四川成享受软件有限公司 
+      # link:
       tags: Part-time, remote
       date: 2017.03 + 2018.03
-      role: Backend Developer
+      role: Java工程师
       location: 成都
       description: |
         Your key responsibilities and achievements in the company.
         + First
         + Secon
 
-    + company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 + 2018.03
-      role: Backend Developer
-      location: 成都
+    + company: 宁波攒油宝网络科技公司
+      # link:
+      tags: 实习
+      date: 2016.03 + 2017.03
+      role: React前端工程师, Java工程师
+      location: 宁波
       description: |
-        Your key responsibilities and achievements in the company.
+        "攒油宝"app和微信工作号
+
+        afafafaf
         + First
         + Secon  
         
